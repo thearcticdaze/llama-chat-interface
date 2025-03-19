@@ -1,0 +1,9 @@
+streamlit
+ollama
+pandas
+chardet
+openpyxl
+sentence-transformers>=2.2.2
+chromadb==0.3.29
+numpy>=1.24.0
+uuid>=1.30
